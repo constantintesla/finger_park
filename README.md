@@ -29,13 +29,11 @@
 ```bash
 # Клонирование репозитория
 git clone <repository-url>
-cd ручки
+cd finger_park
 
 # Установка зависимостей
 pip install -r requirements.txt
 
-# Проверка системы
-python test_system.py
 ```
 
 ### Использование
